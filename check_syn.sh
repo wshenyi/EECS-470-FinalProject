@@ -5,7 +5,7 @@
 # and a directory holding test programs (TESTCASES)
 #
 
-export BASEOUTDIR=base_outputs
+export BASEOUTDIR=baseline
 export TESTOUTDIR=test_outputs
 export TESTCASES=test_progs
 export BASEBRANCH=base
