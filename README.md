@@ -1,8 +1,8 @@
-# EECS470 Pro
+# EECS470 Final Project
 
-EECS470 Pro begin from the end of EECS 470. Since we hadn't added many cool features due to the time limitation, we want to go further after this course.
+We built a 2-way out-of-order super-scalar RISC-V core based on Intel P6 microarchitecture. 
 
-## Baseline
+## Achievement
 
 The baseline is the version we submit for EECS 470. 
 
@@ -12,9 +12,3 @@ The baseline is the version we submit for EECS 470.
 Below picture is the performance we achieved at the end of this course.
 
 ![performance](pic/performance.jpg)
-
-## Todo List
-
-- [ ] Advanced branch predictor
-- [ ] Non-blocking LSQ
-- [ ] Non-blocking Dcache
